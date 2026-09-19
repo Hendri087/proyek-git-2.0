@@ -16,9 +16,9 @@ Proyek web interaktif sederhana yang dibuat secara kolaboratif oleh Tim.
 * **Dark Mode Toggle:** Fitur ubah tema terang/gelap.
 
 ##  Contribution
-* **Project Initiator:** Menyiapkan struktur repositori & integrasi HTML.
+* **Project Initiator (Hendri):** Menyiapkan struktur repositori & integrasi HTML.
 * **Styling Engineer (Lius):** Membuat tata letak & desain antarmuka (`style.css`).
-* **Script Engineer:** Mengimplementasikan logika fitur JavaScript (`script.js`).
+* **Script Engineer (Hendra):** Mengimplementasikan logika fitur JavaScript (`script.js`).
 
 ##  What I Learned
 * Cara kerja Git branching (`feature/styling`, `feature/scripting`).
